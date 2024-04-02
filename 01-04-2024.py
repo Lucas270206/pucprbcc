@@ -1,1 +1,2 @@
-if 2 % 0 kfnafn
+oi = input("oi ")
+print(oi)
